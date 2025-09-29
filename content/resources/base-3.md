@@ -4,6 +4,8 @@ description: 'This is a special file for Lec #9.'
 file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/782e7f9d995c4c0101de39655f7f8a2c_base.17
 file_size: 68366
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

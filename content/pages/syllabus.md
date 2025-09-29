@@ -61,11 +61,11 @@ Parkinson, B. W., J. Spilker, et al. *Global Positioning System: Theory and Appl
 
 ## Some Websites to Explore
 
-{{% resource_link "334be5bf-391e-453d-ba70-170f5218eb81" "U.S. Coast Guard Navigation Center Website" %}}
+[U.S. Coast Guard Navigation Center Website](http://www.navcen.uscg.gov)
 
-{{% resource_link "93a980a5-fa74-4ff0-acc1-72b31dc8bdaf" "University NAVSTAR Consortium Website" %}}
+[University NAVSTAR Consortium Website](http://www.unavco.org)
 
-{{% resource_link "54ff352a-2d2b-47c3-8e18-eddda5796a3c" "SCIGN Data Portal Website" %}}
+[SCIGN Data Portal Website](http://www-scec.usc.edu/scign/index.html)
 
 ## Class Requirements
 

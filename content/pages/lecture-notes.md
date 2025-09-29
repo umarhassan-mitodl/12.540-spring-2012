@@ -25,9 +25,9 @@ Overview of the aims of the class ({{% resource_link "86bbe7d7-9fe6-4ab5-ae9d-2a
 
 Class introduction and content
 
-{{% resource_link "c6082c79-5b31-4166-b366-872aabdb569d" "U.S. Coast Guard Navigation Center Website" %}}       
-{{% resource_link "3ac1e44c-5c57-4a86-a390-5a344ebf7b4b" "University NAVSTAR Consortium Website" %}}       
-{{% resource_link "c139f3e0-1daf-44c9-81be-533e671b83a2" "SCIGN Data Portal Website" %}}
+[U.S. Coast Guard Navigation Center Website](http://www.navcen.uscg.gov/)       
+[University NAVSTAR Consortium Website](http://www.unavco.org/)       
+[SCIGN Data Portal Website](http://reason.scign.org/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -35,31 +35,31 @@ Class introduction and content
 Coordinate and time systems ({{% resource_link "80ff1161-95ac-8985-fb44-68048aaf14fc" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Introduction to coordinate system definition and realization concentrating on geometric definitions       
-{{% resource_link "5f97b410-4b00-4a9c-bfb0-cd7d3da28722" "SCO Web: Control Networks" %}}       
-{{% resource_link "9a0453e3-d88d-46df-baeb-d8bb53f37726" "National Geodetic Survey" %}}
+[SCO Web: Control Networks](https://www.sco.wisc.edu/surveying/geodetic-standards-networks/)       
+[National Geodetic Survey](http://www.ngs.noaa.gov/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 Potential fields and coordinate systems ({{% resource_link "b7310f45-73ab-8bb3-f136-fe0b6485cbb8" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Potential fields and coordinate systems. We also used some Matlab scripts in this lecture. The two programs are Harmonics.m ({{% resource_link "06127c14-1282-9a04-a86d-7b3639e7a55c" "M" %}}), which plots low order harmonics and Sectorials.m ({{% resource_link "362ee9b7-5472-ebc1-eb10-a8e090500a99" "M" %}}), which plots high order sectorial harmonics. Surface harmonic figure and code: SurfaceHarmonic.fig ({{% resource_link "e74782ef-b6d7-8239-9259-8c8cecb1d941" "FIG" %}}) and SurfaceHarmonic.m ({{% resource_link "10befe56-ad0b-681a-de40-ddd8a2fed793" "M" %}})       
-{{% resource_link "ef54e312-a161-4d38-bd8f-b6093be49230" "Legendre Polynomial" %}}
+[Legendre Polynomial](http://mathworld.wolfram.com/LegendrePolynomial.html)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 Coordinate types ({{% resource_link "5d5bf2c3-92fe-380f-1247-2bbca0280130" "PDF - 1.7MB" %}})
 {{< tdclose >}}{{< tdopen >}}
 Coordinate systems, rotation of the Earth, Geoid, Spherical trigonometry       
-{{% resource_link "618136e0-3970-4f83-9023-cc9729500896" "International Earth Rotation and Reference Systems Service" %}}          
-{{% resource_link "fa2b952b-db1a-45b3-b5b7-2ca714bf58bd" "Computation of Geoid99 Geoid Height" %}}       
-{{% resource_link "07e775a5-4f7e-4b21-8761-79ca33298759" "Spherical Trigonometry" %}}
+[International Earth Rotation and Reference Systems Service](http://www.iers.org/)          
+[Computation of Geoid99 Geoid Height](http://www.ngs.noaa.gov/cgi-bin/GEOID_STUFF/geoid99_prompt1.prl)       
+[Spherical Trigonometry](http://mathworld.wolfram.com/SphericalTrigonometry.html)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
 GPS satellite orbits ({{% resource_link "2e7e2288-8dd1-8714-ed32-cbd3a592c520" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 GPS satellite orbits. The MATLAB program to compute eccentic and true anomalies is truea.m ({{% resource_link "d3f28a89-0aea-3016-05f8-e8b18f7309f6" "M" %}})       
-The GPS interface control document ({{% resource_link "a983f4a2-a818-4504-94ee-ca0344551162" "PDF" %}})  
+The GPS interface control document ([PDF](http://geoweb.mit.edu/~tah/12.540/icd200cw1234.pdf))  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -92,10 +92,10 @@ Each file has a header line with column titles. All range and phase units are me
 base.02 ({{% resource_link "98a6edf0-2470-0a71-c4c1-8257d4356505" "TXT" %}}) base.04 ({{% resource_link "8e567aba-089c-6923-9b29-38534c8f4a2d" "TXT" %}}) base.05 ({{% resource_link "9139fb4a-0d35-e8e4-a8fc-7da7037a9328" "TXT" %}}) base.09 ({{% resource_link "475a95a5-8ee4-f4f6-cd16-846c6e497637" "TXT" %}}) base.12 ({{% resource_link "43fc10c4-1922-cd87-76e8-d5c4a0ca3134" "TXT" %}}) base.17 ({{% resource_link "782e7f9d-995c-4c01-01de-39655f7f8a2c" "TXT" %}}) base.28 ({{% resource_link "8026c3f7-9c88-291b-020f-46f6faddbebc" "TXT" %}}) base.29 ({{% resource_link "9f39ad6f-8687-2511-7137-6c7d85c14529" "TXT" %}})       
 The site coordinates are in the rinex header shown in Lec #8       
 Sources of GPS data (main archives)       
-{{% resource_link "2f821a42-3b9d-4346-b363-8a176d711a71" "SOPAC" %}}       
-{{% resource_link "c68e02a6-5852-46f7-968b-9d34f9d1dc7a" "CDDIS" %}}       
-{{% resource_link "d3dcd4b4-f567-4c46-afe4-c6758b2715c8" "NGS/CORS" %}}       
-{{% resource_link "7d6035c5-4b50-4ded-8139-3e62482cdb4d" "UNAVCO" %}}
+[SOPAC](http://sopac.ucsd.edu/)       
+[CDDIS](http://cddis.gsfc.nasa.gov/)       
+[NGS/CORS](http://www.ngs.noaa.gov/CORS/)       
+[UNAVCO](http://www.unavco.org/data/data.html)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
@@ -103,8 +103,8 @@ Estimation: introduction ({{% resource_link "134733d9-30a8-fa19-45d2-c03bbb9e7e1
 {{< tdclose >}}{{< tdopen >}}
 
 Start estimation looking a parametric estimation methods       
-{{% resource_link "7a5ffe05-b256-4380-bdfc-cde4821e3283" "Data Analysis for Process Modeling" %}}       
-{{% resource_link "2cf8825e-10a3-4405-b8bf-e2c414469e57" "Least Squares Parameter Estimation (Regression Analysis)" %}}
+[Data Analysis for Process Modeling](http://www.itl.nist.gov/div898/handbook/pmd/section4/pmd4.htm)       
+[Least Squares Parameter Estimation (Regression Analysis)](http://reliawiki.org/index.php/Least_Squares)
 
 histograms.m ({{% resource_link "5477bd95-35bb-0404-97f3-844cf45c01a4" "M" %}}) generates histogram plots
 
@@ -132,31 +132,31 @@ Kalman filter approach to estimation
 Propagation medium: propagation ({{% resource_link "c35dc831-04f2-e023-1e67-2d45c6c9a540" "PDF - 2.3MB" %}})
 {{< tdclose >}}{{< tdopen >}}
 Timing in GPS. Examine clock estimation       
-{{% resource_link "c7aa7858-b349-4cc3-b723-acf7107c5af8" "IGS Clock Products Working Group" %}}       
-{{% resource_link "6a6ec33c-77c3-4a88-9b16-1bca7f3d9b88" "IGS Time Scale" %}}
+[IGS Clock Products Working Group](https://www.nrl.navy.mil/ssdd/research-activities/8150/igs)       
+[IGS Time Scale](https://www.researchgate.net/publication/3918247_Developing_an_IGS_time_scale)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
 Propagation medium: neutral atmosphere ({{% resource_link "18bff88e-0626-8932-d60d-d99748e2a62b" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Tropospheric delay estimation       
-{{% resource_link "514041bf-d4c6-450a-b8cf-3d9b58381564" "The Height of the Tropopause" %}}       
-Effects of the Troposheric Mapping Function on Space Geodetic Data ({{% resource_link "ac7c9025-4b32-4f66-b71d-1d5528318802" "PDF - 1.0MB" %}})       
-{{% resource_link "d0f3ccb6-8988-48da-b696-2c58a56ed0be" "Index of /DELAY" %}}
+[The Height of the Tropopause](http://www-das.uwyo.edu/~geerts/cwx/notes/chap01/tropo.html)       
+Effects of the Troposheric Mapping Function on Space Geodetic Data ([PDF - 1.0MB](http://gauss.gge.unb.ca/papers.pdf/igs97tropo.pdf))       
+[Index of /DELAY](https://gssc.esa.int/navipedia/index.php/Tropospheric_Delay)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
 Propagation: ionospheric delay ({{% resource_link "f746a340-d6cb-92cb-ba9f-23996bc67ab0" "PDF - 1MB" %}})
 {{< tdclose >}}{{< tdopen >}}
 Ionospheric delays       
-{{% resource_link "ee869d97-3a91-4494-aad4-b28c6cad43d3" "National Geophysical Data Center" %}}    
+[National Geophysical Data Center](http://www.ngdc.noaa.gov/stp/SOLAR/ftpcalcium.html)    
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
 Basic antenna operation ({{% resource_link "965ca3c7-5cba-1835-ab46-ea8e32d63074" "PDF - 1.7MB" %}})
 {{< tdclose >}}{{< tdopen >}}
 Antennas and calibrations       
-{{% resource_link "c4c5839f-5242-4c53-bcfe-43e91006be30" "NGS/Antenna Calibrations" %}}
+[NGS/Antenna Calibrations](http://www.ngs.noaa.gov:80/ANTCAL/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -175,7 +175,7 @@ Models: Rank deficiencies, ambiguity resolution and differencing methods
 Processing software ({{% resource_link "aaa9ef21-6b50-7337-cb85-c9dbddd41135" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Processing software:       
-{{% resource_link "d51ba71b-92f4-4b45-a5ee-b49e6b4d2baf" "GAMIT/GLOBK Web Tutorial (PDF)" %}}
+[GAMIT/GLOBK Web Tutorial (PDF)](http://geoweb.mit.edu/gg/docs/GG_Quick_Start_Guide.pdf)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -183,23 +183,23 @@ GPS groups/IGS ({{% resource_link "69080620-05bd-33e4-447c-0d20949bdfab" "PDF" %
 {{< tdclose >}}{{< tdopen >}}
 
 GPS data availability and site locations       
-{{% resource_link "7d6035c5-4b50-4ded-8139-3e62482cdb4d" "UNAVCO" %}}       
-{{% resource_link "f996ca37-0982-4260-a331-b716d4303b8d" "International GNSS Service" %}}       
+[UNAVCO](http://www.unavco.org/data/data.html)       
+[International GNSS Service](http://gpsworld.com/tag/international-gnss-service/)       
 International GNSS Service—All world map ({{% resource_link "8fdac922-9c48-4425-9c48-34dc2c293dd6" "PNG" %}})
 
 Networks       
-{{% resource_link "dc2bd110-c461-4c3f-9201-6b6a10cc5b73" "SCIGN" %}}       
-{{% resource_link "7d6035c5-4b50-4ded-8139-3e62482cdb4d" "UNAVCO" %}}       
-{{% resource_link "d3dcd4b4-f567-4c46-afe4-c6758b2715c8" "NGS/CORS" %}}       
-{{% resource_link "4ac66d95-4c2f-4b4b-988e-0d95f1fb9358" "Bay Area Regional Deformation Network" %}}       
-{{% resource_link "9ac2b325-9d7c-46c3-9998-328ffe64c803" "Pacific Northwest Geodetic Array" %}}
+[SCIGN](http://www.scign.org/)       
+[UNAVCO](http://www.unavco.org/data/data.html)       
+[NGS/CORS](http://www.ngs.noaa.gov/CORS/)       
+[Bay Area Regional Deformation Network](https://seismo.berkeley.edu/bard/)       
+[Pacific Northwest Geodetic Array](http://www.panga.cwu.edu/)
 
 Results       
-{{% resource_link "2f821a42-3b9d-4346-b363-8a176d711a71" "Permanent GPS Site Arrays" %}}       
-{{% resource_link "b70a0b48-c0aa-40ee-b465-aac02a0c71e2" "GPS Time Series" %}}       
-{{% resource_link "fbd9f189-9ef6-4535-a35f-48a20f99eb2b" "SCIGN Data Portal" %}}       
-{{% resource_link "7b470d63-27a7-4e7d-b97d-046aba1cc0dc" "GPS Explorer" %}}       
-{{% resource_link "7d6035c5-4b50-4ded-8139-3e62482cdb4d" "UNAVCO" %}}
+[Permanent GPS Site Arrays](http://sopac.ucsd.edu/)       
+[GPS Time Series](http://sideshow.jpl.nasa.gov/mbh/series.html)       
+[SCIGN Data Portal](http://reason.scign.org)       
+[GPS Explorer](https://play.google.com/store/apps/details?id=com.gpsnav.evo.gps2&hl=en_US&pli=1)       
+[UNAVCO](http://www.unavco.org/data/data.html)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -225,5 +225,5 @@ Applications, High-rate GPS results, and Tools ({{% resource_link "c3f4361e-0757
 {{< tdclose >}}{{< tdopen >}}
 Applications to tectonic problems       
 Tools used to generate some of the figures       
-{{% resource_link "c21a4797-2696-4b12-9751-0c837bf94cd3" "GAMIT/GLOBK MATLAB Tools" %}}
+[GAMIT/GLOBK MATLAB Tools](http://www-gpsg.mit.edu/~tah/GGMatlab)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

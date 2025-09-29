@@ -4,6 +4,8 @@ description: 'This is a special file for Lec #22.'
 file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/c1d2a222013826d2b468d6da55c971aa_TR02.NEU.rovr.txt
 file_size: 239185
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

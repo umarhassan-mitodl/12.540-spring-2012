@@ -4,6 +4,8 @@ description: This resource contains information regarding assignments.
 file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/739f28f1196ed9f76c7ae4e63068b711_MIT12_540S12_HW01_soln.pdf
 file_size: 1698794
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
