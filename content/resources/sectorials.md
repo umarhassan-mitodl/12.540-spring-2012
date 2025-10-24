@@ -4,8 +4,6 @@ description: 'This is a special file for Lec #3.'
 file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/362ee9b75472ebc1eb10a8e090500a99_Sectorials.m
 file_size: 1118
 file_type: text/x-objcsrc
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

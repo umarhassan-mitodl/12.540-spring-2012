@@ -4,8 +4,6 @@ description: 'This is a special file for Lec #3.'
 file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/10befe56ad0b681ade40ddd8a2fed793_SurfaceHarmonic.m
 file_size: 1102
 file_type: text/x-objcsrc
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

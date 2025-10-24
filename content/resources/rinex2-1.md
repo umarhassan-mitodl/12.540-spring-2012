@@ -4,8 +4,6 @@ description: This is a special file for assignment 1.
 file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/102743cfd6f15a1d208bb4a924f7c134_rinex2.txt
 file_size: 72834
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

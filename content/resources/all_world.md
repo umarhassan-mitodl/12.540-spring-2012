@@ -4,8 +4,6 @@ description: ''
 file: /courses/12-540-principles-of-the-global-positioning-system-spring-2012/8fdac9229c4844259c4834dc2c293dd6_all_world.png
 file_size: 102344
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
