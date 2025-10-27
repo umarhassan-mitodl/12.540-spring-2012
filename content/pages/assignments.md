@@ -27,7 +27,7 @@ HW01\_2012.m ({{% resource_link "1d8560c4-4e4c-d2fa-da48-0a761e743ee7" "M" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 
-The broadcast ephemeris file to use is mit0090s.10n ({{% resource_link "bf8163f9-7746-bb38-4cbe-0981bd286734" "TXT" %}}) (containing the 10 satellites visible at MIT at 15:15 GPST) and the full set of satellites mit00900.10n ({{% resource_link "9581e77a-c522-d34c-2f66-d9b5d3fec7fe" "TXT" %}}). The GPS interface control document icd200cw1234.pdf ([PDF](http://geoweb.mit.edu/~tah/icd200c123.pdf)) will be useful for this homework. 
+The broadcast ephemeris file to use is mit0090s.10n ({{% resource_link "bf8163f9-7746-bb38-4cbe-0981bd286734" "TXT" %}}) (containing the 10 satellites visible at MIT at 15:15 GPST) and the full set of satellites mit00900.10n ({{% resource_link "9581e77a-c522-d34c-2f66-d9b5d3fec7fe" "TXT" %}}). The GPS interface control document icd200cw1234.pdf ({{% resource_link "37d2979a-b8de-4e4a-96fe-f3c52e122683" "PDF" %}}) will be useful for this homework. 
 
 Rinex Definition   
 [ftp://igscb.jpl.nasa.gov/pub/data/format/rinex2.txt](ftp://igscb.jpl.nasa.gov/pub/data/format/rinex2.txt) ({{% resource_link "102743cf-d6f1-5a1d-208b-b4a924f7c134" "TXT" %}})
